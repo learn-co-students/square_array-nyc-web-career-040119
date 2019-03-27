@@ -5,3 +5,4 @@ def square_array(numbers)
   numbers.each { |i| squares << i ** 2 }
   squares
 end
+# tests
